@@ -1,6 +1,6 @@
 ![Header](https://github.com/lolitakhatskevich/lolitakhatskevich/blob/main/assets/header.png)
 
-About me
+## I am an enthusiastic Junior QA Engineer, keen to learn and grow in the field of quality assurance. Strong foundation in software testing fundamentals and dedicated to ensuring product quality. Actively seeking a full-time QA role where I can contribute and further develop my skills.
 
 My skills and projects
 
